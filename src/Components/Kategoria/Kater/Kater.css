@@ -1,0 +1,16 @@
+.kater {
+    width: 300px;
+    height: 450px;
+    border: 1px solid #E5E5E5;
+    border-radius: 8px;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.kater h2 {
+    color: rgba(135, 135, 135, 1);
+    padding-left: 70px;
+}
+.kat {
+    margin-left: 80px;
+    color: rgba(135, 135, 135, 1);
+}

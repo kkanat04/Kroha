@@ -1,0 +1,111 @@
+
+.menu{
+    width: 66%;
+    display: flex;
+    justify-content: space-between;
+    color: #878787;
+    font-size: 15px;
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.a {
+    color: #878787;
+    text-decoration: none;
+}
+
+.homeImg{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+.stock{
+    margin-top: 15%;
+    position: relative;
+    border: 2px solid #E5E5E5;
+    height: 620px;
+    width: 85%;
+    margin-bottom: 10%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    border-radius: 30px;
+    margin: auto;
+    margin-bottom: 80px;
+    
+}
+.block{
+    
+    border: 1px solid #E5E5E5;
+    height: 500px;
+    width: 21%;
+    border-radius: 25px; 
+    
+}
+.modal {
+    width: 117.5%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.555);
+    position: absolute;
+}
+.shadow {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    z-index: 5;
+}
+.girl {
+    width: 100%;
+}
+
+.title{
+    margin-left: 4.5%;
+    color: #878787;
+}
+.sum{
+    display: flex;
+    width: 40%;    
+    justify-content: space-between;
+    margin-left: 4.5%;
+    color: #878787;
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+.initSum{
+    font-weight: 700;
+}
+.finSum{
+    text-decoration: line-through;
+}
+.btn1{
+     background: white;
+     color:  #C4C4C4;
+     border: 2px solid #C4C4C4;
+     border-radius: 8px;
+    width: 45%;
+    height: 35px;
+    font-weight: 600;
+    font-size: 14px;
+}
+.btn2{
+    width: 45%;
+    background: #00A9C8;
+    color:  white;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+.h3{
+    color: #878787;
+    font-size: 22px;
+    margin-left: 2%;
+    margin-top: 3%;
+
+}
+.border {
+    display: flex;
+    justify-content: space-around;
+}

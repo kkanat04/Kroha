@@ -1,0 +1,22 @@
+.h2{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+
+color: #878787;
+
+}
+.tovar {
+    font-size: 14px;
+line-height: 17px;
+
+color: #878787;
+}
+.text p {
+    margin-top: 20px;
+}
+.DIV {
+    margin: 80px;
+}
